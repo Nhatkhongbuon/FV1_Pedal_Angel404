@@ -2,7 +2,7 @@
 Project about multi effects guitar pedal using DSP FV1 and MCU ATmega328. Overview about my project:
  <ul>
   <li>Can display present effect by using TFT 1.8"</li>
-  <li>3 foot switch: 1 for bypass, 2 for select effect</li>
+  <li>3 foot switches: 1 for bypass, 2 for select effect</li>
   <li>3 EEPROM with 24 effects</li>
   <li>Using relay bypass, avoid popping phenomenon when using 3PDT</li>
   <li>Easy to update program for ATmega328 and change effect by replace EEPROM</li>
