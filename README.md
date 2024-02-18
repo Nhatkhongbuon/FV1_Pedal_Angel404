@@ -16,7 +16,7 @@ I just already complete software and PCB for this project. When I receive PCB fr
  Knowledge base about FV1, free programs and support community:
  http://www.spinsemi.com/index.html
  
- # Some applications need to installed
+ # Applications need to installed
  <ul>
   <li>SpinASM to program EEPROM: http://www.spinsemi.com/Products/software/spn1001-dev/SpinSetup_1_1_31.exe</li>
   <li>SpinCAD (another method to program EEPROM, using graphical interface, don't need knowledge about assembly): https://github.com/HolyCityAudio/SpinCAD-Designer</li>
