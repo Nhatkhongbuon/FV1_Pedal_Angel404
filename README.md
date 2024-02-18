@@ -6,7 +6,11 @@ Project about multi effects guitar pedal using DSP FV1 and MCU ATmega328. Overvi
   <li>3 EEPROM with 24 effects</li>
   <li>Using relay bypass, avoid popping phenomenon when using 3PDT</li>
   <li>Easy to update program for ATmega328 and change effect by replace EEPROM</li>
+  <li>Using 1590BB enclosure, compact and clean</li>
  </ul>
+
+I just already complete software and PCB for this project. When I receive PCB from JLCPCB I will update real life images about this project.
+
 
  # Spin Semiconductor home page
  Knowledge base about FV1, free programs and support community:
