@@ -1,0 +1,14 @@
+; Untitled
+; null
+; Pot 0: 
+; Pot 1: 
+; Pot 2: 
+; 
+; 
+; ----------------------------
+;------ Input
+;------ Output
+RDAX ADCL,1.0000000000
+WRAX DACL,0.0000000000
+RDAX ADCL,1.0000000000
+WRAX DACR,0.0000000000
