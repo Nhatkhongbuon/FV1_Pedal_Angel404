@@ -22,6 +22,17 @@ I just already complete software and PCB for this project. When I receive PCB fr
   <li>SpinCAD (another method to program EEPROM, using graphical interface, don't need knowledge about assembly): https://github.com/HolyCityAudio/SpinCAD-Designer</li>
   <li>Java environment (need to run SpinCAD): https://www.java.com/fr/download/</li>
  </ul>
+
+ # Some useful information
+ Replacing Electrolytic Capacitor with MLCC: https://product.tdk.com/en/techlibrary/solutionguide/mlcc_replace-guide.html
+
+ # Components
+ TQ2-5V ATQ209 Relay: https://encr.pw/TQ2relay
+ DSP FV1: https://s.pro.vn/D8CI
+ TFT 1.8": https://s.pro.vn/HJ7W
+ SPST foot switch: https://short.com.vn/XrDh
+ AT24C128 EEPROM: https://short.com.vn/XX3M
+ TL074 DIP-14: https://short.com.vn/3tT4
  
 ![FV1_1](https://github.com/Nhatkhongbuon/FV1_Pedal/assets/138384438/444856ea-6903-4918-a756-7260ef24568a)
 
