@@ -27,13 +27,15 @@ I just already complete software and PCB for this project. When I receive PCB fr
  Replacing Electrolytic Capacitor with MLCC: https://product.tdk.com/en/techlibrary/solutionguide/mlcc_replace-guide.html
 
  # Components
- TQ2-5V ATQ209 Relay: https://encr.pw/TQ2relay
- DSP FV1: https://s.pro.vn/D8CI
- TFT 1.8": https://s.pro.vn/HJ7W
- SPST foot switch: https://short.com.vn/XrDh
- AT24C128 EEPROM: https://short.com.vn/XX3M
- TL074 DIP-14: https://short.com.vn/3tT4
- 
+ <ul>
+  <li>TQ2-5V ATQ209 Relay: https://encr.pw/TQ2relay</li>
+  <li>DSP FV1: https://s.pro.vn/D8CI</li>
+  <li>TFT 1.8": https://s.pro.vn/HJ7W</li>
+  <li>SPST foot switch: https://short.com.vn/XrDh</li>
+  <li>AT24C128 EEPROM: https://short.com.vn/XX3M</li>
+  <li>TL074 DIP-14: https://short.com.vn/3tT4</li>
+ </ul>
+
 ![FV1_1](https://github.com/Nhatkhongbuon/FV1_Pedal/assets/138384438/444856ea-6903-4918-a756-7260ef24568a)
 
 ![FV1_2](https://github.com/Nhatkhongbuon/FV1_Pedal/assets/138384438/648998ac-a5ab-4884-be76-b94d7a571f25)
